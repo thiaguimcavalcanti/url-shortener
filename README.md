@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## How to compile and run the application with an example for each call
 
-Install: git clone https://gist.github.com/a788dd17422f7c5db528a17f92c8ac36.git
+Install: git clone https://github.com/thiaguimcavalcanti/url-shortener.git
 
 Build: mvn package
 
